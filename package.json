@@ -1,0 +1,14 @@
+{
+    "name": "yummy",
+    "version": "1.0.0",
+    "description": "Recipe and Meal Planning Website",
+    "main": "index.html",
+    "scripts": {
+        "test": "jest"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "puppeteer": "^19.8.5"
+    }
+}
