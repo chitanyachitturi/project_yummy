@@ -1,4 +1,4 @@
-SWE 632 - Checkpoint #1
+SWE 632
 
 YUMMY - a recipe and meal planning website.
 
