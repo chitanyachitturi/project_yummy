@@ -1,6 +1,6 @@
-SWE 632
 
-YUMMY - a recipe and meal planning website.
+
+YUMMY
 
 Designed by :
 Nishta Jain 
